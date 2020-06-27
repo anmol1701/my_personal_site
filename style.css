@@ -1,0 +1,126 @@
+.zero {
+  background-color: #e0ebe8;
+}
+.middle-container{
+  background-color: #e0dede;
+
+}
+.skill-row
+{
+  width:50%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+}
+h1
+{
+
+  font-family: 'Sacramento', cursive;
+  font-size: 5.4rem;
+  margin:0;
+  color:#66BFBF;
+  padding-top:40px;
+}
+.size1{
+  font-size: 1.5rem;
+  font-weight:normal;
+  margin-top:0;
+  color:#66BFBF;
+
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color:#11999E;
+}
+body{
+font-family: 'Quicksand', sans-serif;
+}
+h2
+{
+  font-size: 2rem;
+  text-decoration: underline;
+  color:#66BFBF;
+}
+
+
+.two {
+  margin: 0;
+  text-align: center;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+
+}
+
+.cloud2 {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+
+}
+
+.topcontainer {
+  position: relative;
+  padding-top:100px;
+}
+.profileimg
+{
+  border-radius: 100%;
+  height:200px;
+  width:200px;
+}.skillimg1
+{
+
+  position: relative;
+  border-radius: 100%;
+  height:200px;
+  width:200px;
+
+}
+.skills{
+  position: relative
+}
+hr
+{
+  border-style: dotted none none;
+  border-color:grey;
+  border-width:8px;
+  width:10%;
+}
+.footer-link
+{
+  color:#11999E;
+  text-decoration: none;
+
+}
+.bottom-container
+{
+  background-color: #e79cc2;
+  margin:0;
+  padding-top: 25px;
+}.skills
+{
+  background-color: #e0dede;
+}
+.btn
+{
+  line-height: 3;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  background-color: #11999E ; /* Green */
+  border: none;
+  color:white ;
+  padding: 5px 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius:12px;
+}
+.end{
+  margin-bottom:0;
+  margin-top:20px;
+}
